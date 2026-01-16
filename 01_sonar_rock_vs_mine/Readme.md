@@ -134,6 +134,6 @@ If you find a bug, want to optimize the code, or improve the documentation, feel
 
 ## Author
 
-**Melik Fourati**
+**Melek Fourati**
 
 Mini Machine Learning Project
